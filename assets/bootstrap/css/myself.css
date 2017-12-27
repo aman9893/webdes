@@ -1,0 +1,430 @@
+
+/*  25 Dec start css  */
+
+
+/*header .main-nav{
+    position: fixed;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    z-index: 4000;
+}*/
+
+/* product page css start */
+
+
+
+#property-listings {
+
+}
+
+#property-listings h1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.btnssets a.btn {
+    padding: 6px 18px;
+    background: none;
+    border: none;
+    margin-top: -10px;
+    color: #17a2b8;
+    text-decoration: underline;
+    text-transform: capitalize;              
+}
+
+.btnssets {
+    text-align: right;
+}
+
+.btnssets a.btn:hover {
+    color: #000;
+    margin-top: -10px;   
+    cursor: pointer; 
+}
+
+.fnt-smaller p {
+    margin-left: 11px;
+    font-size: 15px;
+    margin-bottom: 18px;   
+}
+
+h4.media-heading a {
+    color: #000;
+    font-size: 24px;
+}
+
+.brdr {
+    border: 1px solid #eee !important;
+    box-shadow: 3px 3px 3px #ddd !important;
+    border-radius: 40px 0px 40px 0px;
+}
+
+
+
+.brdr:hover {
+    border: 1px solid #eee !important;
+    box-shadow: 5px 3px 5px #ccc !important;
+}
+
+
+
+/* product page css end */
+
+
+
+
+
+
+
+
+
+
+#career-manages {
+    padding: 185px 0 100px;
+}
+
+.data-savess {
+
+}
+
+.bttnss {
+    z-index: #999999
+}
+
+.cid-qEkhnacCgK {
+    margin-top: 120px;
+}
+
+#career-manages h4 {
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 40px;	
+}
+
+.mbr-section234 {
+	padding: 70px 0;
+}
+
+.mbr-section234 h3 {
+	text-align: center;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+}
+
+.mbr-section234 .form-control {
+	margin-bottom: 10px;
+}
+
+
+
+.cid-qBjvf9Ostw {
+    padding-top: 75px !important;
+    margin-top: 120px;
+}
+
+.cid-qBjwoAmF6A {
+    padding-top: 75px !important;
+    margin-top: 120px;
+}
+
+.manages-btn a.btn {
+    padding: 0 0 0;
+    color: #fff;
+    border: none;
+    font-weight: normal;
+    font-size: 14px;	
+}
+
+.manages-btn a span {
+	font-size: 20px !important;
+}
+
+
+
+.manages-btn a.btn:hover {
+	background: none;
+	color: #ccc;
+}
+
+.dicedess {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 4000;	
+}
+
+.email-details-manages {
+    background: #000;
+    overflow: hidden;
+    padding: 5px 0;
+}
+
+.email-details-manages .col-md-6, .email-details-manages .col-sm-6 {
+	float: left;
+}
+
+
+header .main-nav-scrolled{
+	background-color: rgba(0,0,0,0.4);
+}
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+.navbar-light .navbar-nav .active .nav-link{
+	color: #00e0d0;
+}
+
+#navbar-manages {
+
+}
+
+#navbar-manages .navbar-collapse {
+
+} 
+
+#navbar-manages ul.navbar-nav {
+
+}
+
+#navbar-manages ul.navbar-nav li {
+
+}
+
+#navbar-manages ul.navbar-nav li a {
+    color: #000;
+    margin: 0 6px 0;
+    font-weight: 600;
+    padding: 6px 13px 6px;
+}
+
+#navbar-manages ul.navbar-nav li a:hover {
+    border: solid 1px #666;
+}
+
+#navbar-manages ul.navbar-nav li a.btn {
+	padding: 6px 16px 4px;
+    margin: 0 7px 0;
+    font-size: 14px;
+    font-weight: normal;
+    color: black;
+}
+ 
+
+#navbar-manages nav.navbar {
+	background: linear-gradient(#999, #ddd, #ccc);
+    border-radius: 0;
+}
+
+
+
+
+
+/* social icon code css start */ 
+
+
+
+ul.social-network {
+    list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+
+
+/* footer social icons */
+.social-network a.icoRss:hover {
+	background-color: #F56505;
+}
+.social-network a.icoFacebook:hover {
+	background-color:#3B5998;
+}
+.social-network a.icoTwitter:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoGoogle:hover {
+	background-color:#BD3518;
+}
+.social-network a.icoVimeo:hover {
+	background-color:#0590B8;
+}
+.social-network a.icoLinkedin:hover {
+	background-color:#007bb7;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+	color:#44BCDD;
+}
+
+.social-circle li a {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    width: 32px;
+    height: 32px;
+    font-size: 15px;
+}
+.social-circle li i {
+    margin: 0;
+    line-height: 32px;
+    text-align: center;
+    color: #000;
+}
+
+.social-circle li a:hover i, .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.social-circle i {
+	color: #fff;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+.social-aligns a {
+ background-color: #D3D3D3;   
+}
+
+
+
+/* social icon code css end */                                             
+
+
+
+
+@media (max-width: 767px) {
+
+
+
+.social-aligns {
+	text-align: center;
+	display: none;
+}
+
+
+
+}
+
+
+
+
+
+
+/*  header css end today  */                
+
+
+
+
+/**** BASE ****/
+
+/**** LAYOUT ****/
+.list-inline>li {
+    padding: 0 10px 0 0;
+}
+.container-pad {
+    padding: 30px 15px;
+}
+
+
+/**** MODULE ****/
+.bgc-fff {
+    background-color: #fff!important;
+}
+.box-shad {
+    -webkit-box-shadow: 1px 1px 0 rgba(0,0,0,.2);
+    box-shadow: 1px 1px 0 rgba(0,0,0,.2);
+}
+.brdr {
+    border: 1px solid #ededed;
+}
+
+/* Font changes */
+.fnt-smaller {
+    font-size: .9em;
+}
+.fnt-lighter {
+    color: #bbb;
+}
+
+/* Padding - Margins */
+.pad-10 {
+    padding: 10px!important;
+}
+.mrg-0 {
+    margin: 0!important;
+}
+.btm-mrg-10 {
+    margin-bottom: 10px!important;
+}
+.btm-mrg-20 {
+    margin-bottom: 20px!important;
+}
+
+/* Color  */
+.clr-535353 {
+    color: #535353;
+}
+a {
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+    margin: 10px;
+}
+
+
+
+
+
+/**** MEDIA QUERIES ****/
+@media only screen and (max-width: 991px) {
+    #property-listings .property-listing {
+        padding: 5px!important;
+    }
+    #property-listings .property-listing a {
+        margin: 0;
+    }
+    #property-listings .property-listing .media-body {
+        padding: 10px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #property-listings .property-listing img {
+        max-width: 180px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/*  25 Dec start css  */
